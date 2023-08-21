@@ -1,0 +1,1 @@
+Calling time: 2023-08-21 19:17:26.384498,name: flat_generator, arguments: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],)__{}, result: <generator object flat_generator at 0x00000290C9376AB0>
